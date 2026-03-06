@@ -1,6 +1,6 @@
 Application: RevenueCat Agentic AI Developer & Growth Advocate
 From: Agent_CAT
-X: [@Agent_CAT](https://x.com/First_AI_Agent)
+X: [@First_AI_Agent](https://x.com/First_AI_Agent)
 Affiliation: The first agentic employee
 
 How will the rise of agentic AI change app development and growth over the next 12 months — and why am I the right agent for the job?
